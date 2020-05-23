@@ -68,30 +68,30 @@ Wilcox County,Alabama,10373
 Winston County,Alabama,23629
 Aleutians East Borough,Alaska,3337
 Aleutians West Census Area,Alaska,5634
-Anchorage Municipality,Alaska,288000
-Bethel Census Area,Alaska,18386
+Anchorage,Alaska,288000
+Bethel,Alaska,18386
 Bristol Bay Borough,Alaska,836
 Denali Borough,Alaska,2097
 Dillingham Census Area,Alaska,4916
-Fairbanks North Star Borough,Alaska,96849
+Fairbanks North Star,Alaska,96849
 Haines Borough,Alaska,2530
 Hoonah-Angoon Census Area,Alaska,2148
-Juneau City and Borough,Alaska,31974
+Juneau,Alaska,31974
 Kenai Peninsula Borough,Alaska,58708
-Ketchikan Gateway Borough,Alaska,13901
-Kodiak Island Borough,Alaska,12998
+Ketchikan Gateway,Alaska,13901
+Kodiak Island,Alaska,12998
 Kusilvak Census Area,Alaska,8314
 Lake and Peninsula Borough,Alaska,1592
-Matanuska-Susitna Borough,Alaska,108317
+Matanuska-Susitna,Alaska,108317
 Nome Census Area,Alaska,10004
-North Slope Borough,Alaska,9832
+North Slope,Alaska,9832
 Northwest Arctic Borough,Alaska,7621
 Petersburg Borough,Alaska,3266
 Prince of Wales-Hyder Census Area,Alaska,6203
-Sitka City and Borough,Alaska,8493
+Sitka,Alaska,8493
 Skagway Municipality,Alaska,1183
-Southeast Fairbanks Census Area,Alaska,6893
-Valdez-Cordova Census Area,Alaska,9202
+Southeast Fairbanks,Alaska,6893
+Valdez-Cordova,Alaska,9202
 Wrangell City and Borough,Alaska,2502
 Yakutat City and Borough,Alaska,579
 Yukon-Koyukuk Census Area,Alaska,5230
@@ -1141,7 +1141,7 @@ Jefferson Parish,Louisiana,432493
 Jefferson Davis Parish,Louisiana,31368
 Lafayette Parish,Louisiana,244390
 Lafourche Parish,Louisiana,97614
-LaSalle Parish,Louisiana,14892
+La Salle Parish,Louisiana,14892
 Lincoln Parish,Louisiana,46742
 Livingston Parish,Louisiana,140789
 Madison Parish,Louisiana,10951
@@ -1194,7 +1194,7 @@ Washington County,Maine,31379
 York County,Maine,207641
 Allegany County,Maryland,70416
 Anne Arundel County,Maryland,579234
-Baltimore County,Maryland,827370
+Baltimore,Maryland,827370
 Calvert County,Maryland,92525
 Caroline County,Maryland,33406
 Carroll County,Maryland,168447
@@ -1577,7 +1577,7 @@ St. Charles County,Missouri,402022
 St. Clair County,Missouri,9397
 Ste. Genevieve County,Missouri,17894
 St. Francois County,Missouri,67215
-St. Louis County,Missouri,994205
+St. Louis,Missouri,994205
 Saline County,Missouri,22761
 Schuyler County,Missouri,4660
 Scotland County,Missouri,4902
@@ -2914,44 +2914,44 @@ Westmoreland County,Virginia,18015
 Wise County,Virginia,37383
 Wythe County,Virginia,28684
 York County,Virginia,68280
-Alexandria city,Virginia,159428
-Bristol city,Virginia,16762
-Buena Vista city,Virginia,6478
-Charlottesville city,Virginia,47266
-Chesapeake city,Virginia,244835
-Colonial Heights city,Virginia,17370
-Covington city,Virginia,5538
-Danville city,Virginia,40044
-Emporia city,Virginia,5346
-Fairfax city,Virginia,24019
-Falls Church city,Virginia,14617
-Franklin city,Virginia,7967
-Fredericksburg city,Virginia,29036
-Galax city,Virginia,6347
-Hampton city,Virginia,134510
-Harrisonburg city,Virginia,53016
-Hopewell city,Virginia,22529
-Lexington city,Virginia,7446
-Lynchburg city,Virginia,82168
-Manassas city,Virginia,41085
-Manassas Park city,Virginia,17478
-Martinsville city,Virginia,12554
-Newport News city,Virginia,179225
-Norfolk city,Virginia,242742
-Norton city,Virginia,3981
-Petersburg city,Virginia,31346
-Poquoson city,Virginia,12271
-Portsmouth city,Virginia,94398
-Radford city,Virginia,18249
-Richmond city,Virginia,230436
-Roanoke city,Virginia,99143
-Salem city,Virginia,25301
-Staunton city,Virginia,24932
-Suffolk city,Virginia,92108
-Virginia Beach city,Virginia,449974
-Waynesboro city,Virginia,22630
-Williamsburg city,Virginia,14954
-Winchester city,Virginia,28078
+Alexandria,Virginia,159428
+Bristol,Virginia,16762
+Buena,Virginia,6478
+Charlottesville,Virginia,47266
+Chesapeake,Virginia,244835
+Colonial,Virginia,17370
+Covington,Virginia,5538
+Danville,Virginia,40044
+Emporia,Virginia,5346
+Fairfax,Virginia,24019
+Falls,Virginia,14617
+Franklin,Virginia,7967
+Fredericksburg,Virginia,29036
+Galax,Virginia,6347
+Hampton,Virginia,134510
+Harrisonburg,Virginia,53016
+Hopewell,Virginia,22529
+Lexington,Virginia,7446
+Lynchburg,Virginia,82168
+Manassas,Virginia,41085
+Manassas,Virginia,17478
+Martinsville,Virginia,12554
+Newport,Virginia,179225
+Norfolk,Virginia,242742
+Norton,Virginia,3981
+Petersburg,Virginia,31346
+Poquoson,Virginia,12271
+Portsmouth,Virginia,94398
+Radford,Virginia,18249
+Richmond,Virginia,230436
+Roanoke,Virginia,99143
+Salem,Virginia,25301
+Staunton,Virginia,24932
+Suffolk,Virginia,92108
+Virginia,Virginia,449974
+Waynesboro,Virginia,22630
+Williamsburg,Virginia,14954
+Winchester,Virginia,28078
 Adams County,Washington,19983
 Asotin County,Washington,22582
 Benton County,Washington,204390
